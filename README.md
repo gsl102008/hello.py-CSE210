@@ -1,7 +1,7 @@
 README.md
 # Overview
 
-This is a basic Hello World program. I followed instructions from a video from my professor to demonstrate the use of visual Studio Code, Github, and Python integrated together.
+This is a basic Hello World program. I followed instructions from a video from my professor to demonstrate the use of visual Studio Code, Github, and Python all together.
 
 [Software Demo Video](https://youtu.be/1ib1775nqYY?si=vjPN14rnNYRm_E_R)
 
@@ -10,7 +10,6 @@ This is a basic Hello World program. I followed instructions from a video from m
 * Visual Studio Code
 * Python 3.9 32-bit
 * Git/GitHub
-
 
 # Useful Websites
 
